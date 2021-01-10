@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: bisque;
+    }
+    header{
+        padding: 0mm;
+        font-family: Cambria;
+        font-size: 40px;
+        text-align: center;
+        background-image: url(bg6n.jpeg);
+        height: 40vh;
+        background-size: cover;
+        background-position: center;
+    }
+    section{
+        padding: 0;
+        margin-left: 20px;
+        margin-right: 20px; 
+        font-size: 25px;
+        font-family: Cambria;
+        text-align: justify;
+    }
+    .container{
+        font-family: Cambria;
+        font-size: 25px;
+    }
+    .container h3{
+        padding: 0%;
+        width: relative;
+        background: whitesmoke;
+    }
+    input[type=text]{
+        padding: 10px;
+        border: none;
+        font-size: 15px;
+        font-family: Cambria;
+    }
+    button{
+        float: center;
+        background: burlywood;
+        color: snow;
+        border-radius: 6px 6px 6px 6px;
+        cursor: pointer;
+        position: relative;
+        padding: 10px;
+        font-family: Cambria;
+        border: none;
+        font-size: 25px;
+    }
